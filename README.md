@@ -6,7 +6,13 @@ This is a Machine Learning-powered web app to predict the probability of a telec
 
 ## Live Demo
 
-You can run this app locally or deploy it on **Streamlit Cloud**. ...........
+You can use this on **Streamlit Cloud**.  https://churn-prediction-app-jkeyeterzamx8owtnztsbz.streamlit.app/
+
+Here are some of the screenshots of how the output looks like based on different inputs:
+
+<img width="753" height="562" alt="image" src="https://github.com/user-attachments/assets/1390439e-1dfb-4c64-8b42-2b2a4bdb5717" />
+
+<img width="738" height="562" alt="image" src="https://github.com/user-attachments/assets/dcaf48ef-5deb-4125-baa9-fe5f429895d6" />
 
 ---
 
