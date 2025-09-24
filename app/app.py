@@ -6,7 +6,7 @@ import joblib
 import plotly.graph_objects as go
 
 # Load model
-model = joblib.load('churn_model.pkl')
+model = joblib.load('model/churn_model.pkl')
 
 st.set_page_config(page_title="Churn Predictor", layout="centered")
 st.title("📉 Telco Customer Churn Predictor")
@@ -94,3 +94,4 @@ if st.button("🚀 Predict Churn Probability"):
     ))
 
     st.plotly_chart(fig, use_container_width=True)
+
