@@ -37,5 +37,4 @@ Customer churn prediction helps telecom companies:
 
 ---
 
-## 📁 Project Structure
 
